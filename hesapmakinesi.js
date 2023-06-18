@@ -2,7 +2,7 @@
 // hesap makinesinin başlangıçta hazır durumda olduğunu ifade eder.
 //yani herhangi bir işlem seçilmemişse hesaplama yapmak için kullanıcıyı bekler durumda
 
-//opt ?   
+//opt ??   
 //hesap makinesinde seçilen işlemin türünü tutar/belirler (+ - )
 
 var durum = false, opt ="", sonuc = 0;
